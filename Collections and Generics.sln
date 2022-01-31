@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollections", "Ob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGenericMethods", "CustomGenericMethods\CustomGenericMethods.csproj", "{9CF3E09E-5E73-4260-94EA-6E9B05F04A9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic struct", "Generic struct\Generic struct.csproj", "{8CFC37DA-7AB3-4C23-87EB-083917475D4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9CF3E09E-5E73-4260-94EA-6E9B05F04A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CF3E09E-5E73-4260-94EA-6E9B05F04A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CF3E09E-5E73-4260-94EA-6E9B05F04A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFC37DA-7AB3-4C23-87EB-083917475D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFC37DA-7AB3-4C23-87EB-083917475D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFC37DA-7AB3-4C23-87EB-083917475D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFC37DA-7AB3-4C23-87EB-083917475D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
